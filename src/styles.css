@@ -1,0 +1,12 @@
+body {
+  background-color: #e4e4e4;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.dark-content {
+  background: #2a374e;
+  color: aliceblue;
+}
